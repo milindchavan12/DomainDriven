@@ -21,3 +21,10 @@ Main adavantages of Bounded Context :
 
 ### Context Map
 Context Map is the diagram that provides comprehensive view of the system being designed.
+
+### Event Storming:
+Event Storming is emploring a business domain starting from observable domain events. It works like:
+- Identifying relavant domain events.
+- Find what cause the event
+- Look at the model surface as a timeline.
+
