@@ -18,3 +18,6 @@ Main adavantages of Bounded Context :
 - Remove ambiguity and duplications
 - Simply design of Software modules.
 - Integration od external components.
+
+### Context Map
+Context Map is the diagram that provides comprehensive view of the system being designed.
