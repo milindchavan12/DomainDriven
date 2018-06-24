@@ -9,5 +9,5 @@ Ubiquitous languages aims to build a common and business oritented language.
 - Vocabulary of domain specific terms
    
     Nouns, verbs, adjectives, idimatic expressions and even adverbs
-    
-- 
+
+
