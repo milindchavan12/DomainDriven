@@ -10,4 +10,4 @@ Ubiquitous languages aims to build a common and business oritented language.
    
     Nouns, verbs, adjectives, idimatic expressions and even adverbs
 
-![alt text] (https://github.com/milindchavan12/DomainDriven/blob/master/Ubiquitous.png)
+![alt text](https://github.com/milindchavan12/DomainDriven/blob/master/Ubiquitous.png)
