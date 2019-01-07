@@ -1,4 +1,7 @@
 # Domain Driven Design
+### Clean Architecture
+Clean Architecture is the Architecure designed for the inhabitant of the Architecure and not for Architect or the Machine.
+
 Domain Models, CQRS, and Event Sourcing
 
 ## Ubiquitous Language
