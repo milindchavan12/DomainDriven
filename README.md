@@ -11,7 +11,7 @@ It is an layered Architecture with Application (Domain) in the ceter of the Arch
 ![alt text](https://github.com/milindchavan12/DomainDriven/blob/master/assets/Hexagonal.png)
 
 ### 2. Onion Architecture
-It is an layered Architecture with Application (Domain) in the ceter of the Architecture.
+It is also an layered Architecture with Domain model in the ceter of the Architecture.
 ![alt text](https://github.com/milindchavan12/DomainDriven/blob/master/assets/Onion.png)
 
 Domain Models, CQRS, and Event Sourcing
