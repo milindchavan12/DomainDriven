@@ -7,7 +7,7 @@ Clean Architecture is the Architecure designed for the inhabitant of the Archite
 
 Types of Domain-Centric Architecture
 ### 1. Alistair Cockburn's Hexagonal Architecture
-![alt text](https://github.com/milindchavan12/DomainDriven/blob/master/assets/hexagonal.png)
+![alt text](https://github.com/milindchavan12/DomainDriven/blob/master/assets/Hexagonal.png)
 
 Domain Models, CQRS, and Event Sourcing
 
