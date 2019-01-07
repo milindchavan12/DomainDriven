@@ -3,7 +3,8 @@
 Clean Architecture is the Architecure designed for the inhabitant of the Architecture and not for Architect or the Machine.
 
 ### Domain-Centric Architecture
-> Pardon my French
+> The first concern about the architect is to make sure that the house usable, it is not to ensure that the house id made of bricks - *Uncle Bob*
+
 
 Domain Models, CQRS, and Event Sourcing
 
