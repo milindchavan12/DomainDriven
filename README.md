@@ -2,9 +2,12 @@
 ### Clean Architecture
 Clean Architecture is the Architecure designed for the inhabitant of the Architecture and not for Architect or the Machine.
 
-### Domain-Centric Architecture
+## Domain-Centric Architecture
 > The first concern about the architect is to make sure that the house usable, it is not to ensure that the house id made of bricks - *Uncle Bob*
 
+Types of Domain-Centric Architecture
+### 1. Alistair Cockburn's Hexagonal Architecture
+![alt text](https://github.com/milindchavan12/DomainDriven/blob/master/assets/hexagonal.png)
 
 Domain Models, CQRS, and Event Sourcing
 
