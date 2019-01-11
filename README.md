@@ -17,6 +17,14 @@ It is also an layered Architecture with Domain model in the ceter of the Archite
 ### 3. Clean Architecture
 ![alt text](https://github.com/milindchavan12/DomainDriven/blob/master/assets/Clean.png)
 
+
+## CQRS Architecture
+In basic CQRS Architecture, seperates the Command stacj and Query stack starting at application layer for :
+- Query must be optimised for reading data.
+- Command must be optimised for writting data.
+
+![alt text](https://github.com/milindchavan12/DomainDriven/blob/master/assets/cqrs.png)
+
 Domain Models, CQRS, and Event Sourcing
 
 ## Ubiquitous Language
