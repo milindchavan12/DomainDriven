@@ -25,7 +25,10 @@ In basic CQRS Architecture, seperates the Command stacj and Query stack starting
 
 ![alt text](https://github.com/milindchavan12/DomainDriven/blob/master/assets/cqrs.png)
 
-Domain Models, CQRS, and Event Sourcing
+There are 3 types of CQRS architectures:
+- Single Database CQRS
+- Two database CQRS
+- Event Sourcing CQRS
 
 ## Ubiquitous Language
 Ubiquitous languages aims to build a common and business oritented language. 
