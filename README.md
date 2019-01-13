@@ -35,6 +35,9 @@ There are 3 types of CQRS architectures:
 ## Streaming Architecure
 > The architecture should stream the intend of the system - Uncle Bob
 
+The way we should use the *functional cohesion* to organise our folder, classes in the application:
+- Presentation layer by agreegate root of each webpage
+
 ## Ubiquitous Language
 Ubiquitous languages aims to build a common and business oritented language. 
 - Shared by all parties between the project 
