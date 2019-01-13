@@ -30,6 +30,9 @@ There are 3 types of CQRS architectures:
 - Two database CQRS
 - Event Sourcing CQRS
 
+__
+
+
 ## Ubiquitous Language
 Ubiquitous languages aims to build a common and business oritented language. 
 - Shared by all parties between the project 
