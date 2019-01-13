@@ -30,7 +30,7 @@ There are 3 types of CQRS architectures:
 - Two database CQRS
 - Event Sourcing CQRS
 
-__
+----
 
 
 ## Ubiquitous Language
