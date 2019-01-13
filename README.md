@@ -32,6 +32,8 @@ There are 3 types of CQRS architectures:
 
 ----
 
+## Streaming Architecure
+> The architecture should stream the intend of the system - Uncle Bob
 
 ## Ubiquitous Language
 Ubiquitous languages aims to build a common and business oritented language. 
