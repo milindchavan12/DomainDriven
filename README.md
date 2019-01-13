@@ -1,5 +1,7 @@
 # Domain Driven Design
 
+## Important Topics:
+- Clean Architecture : 
 
 ## Ubiquitous Language
 Ubiquitous languages aims to build a common and business oritented language. 
