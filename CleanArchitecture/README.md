@@ -1,4 +1,4 @@
-## Clean Architecture
+# Clean Architecture
 Clean Architecture is the Architecure designed for the inhabitant of the Architecture and not for Architect or the Machine.
 
 ## Domain-Centric Architecture
