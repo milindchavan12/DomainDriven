@@ -36,7 +36,12 @@ There are 3 types of CQRS architectures:
 > The architecture should stream the intend of the system - Uncle Bob
 
 The way we should use the *functional cohesion* to organise our folder, classes in the application:
-- Presentation layer by agreegate root of each webpage
+- Presentation layer by agreegate root entity of each screen or webpage.
+- Application Layer by agreegate root entity of use case.
+- Domain Layer by agreegate root og each domain entity.
+- Persistence Layer by agreegate root entity of database table.
+- Infrastructural Layer by System Components and 3rd Party depenecies.
+
 
 ## Ubiquitous Language
 Ubiquitous languages aims to build a common and business oritented language. 
