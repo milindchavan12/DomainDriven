@@ -30,3 +30,6 @@ Event Storming is exploring a business domain starting from observable domain ev
 - Find what cause the event
 - Look at the model surface as a timeline.
 
+## Domain Model Supporting Architecture:
+
+![alt text](https://github.com/milindchavan12/DomainDriven/blob/master/DomainModelArchitecture.png)
