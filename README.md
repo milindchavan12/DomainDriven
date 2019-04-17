@@ -32,4 +32,4 @@ Event Storming is exploring a business domain starting from observable domain ev
 
 ## Domain Model Supporting Architecture:
 
-![alt text](https://github.com/milindchavan12/DomainDriven/blob/master/DomainModelArchitecture.png)
+![alt text](https://github.com/milindchavan12/DomainDriven/blob/master/assets/DomainModelArchitecture.png)
