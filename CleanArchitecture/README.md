@@ -27,7 +27,7 @@ In basic CQRS Architecture, seperates the Command stack and Query stack starting
 There are 3 types of CQRS architectures:
 - Single Database CQRS
 - Two database CQRS
-- Event Sourcing CQRS
+- [Event Sourcing](https://github.com/milindchavan12/DomainDriven/tree/master/EventSourcing) CQRS
 
 ### Synchronisation of data
 ![alt text](https://github.com/milindchavan12/DomainDriven/blob/master/assets/CQRSTwoDatabase.png)
