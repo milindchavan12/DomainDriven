@@ -18,7 +18,7 @@ It is also an layered Architecture with Domain model in the ceter of the Archite
 
 
 ## CQRS Architecture
-In basic CQRS Architecture, seperates the Command stacj and Query stack starting at application layer for :
+In basic CQRS Architecture, seperates the Command stack and Query stack starting at application layer for :
 - Query must be optimised for reading data.
 - Command must be optimised for writting data.
 
