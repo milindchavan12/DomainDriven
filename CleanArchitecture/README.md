@@ -29,6 +29,8 @@ There are 3 types of CQRS architectures:
 - Two database CQRS
 - Event Sourcing CQRS
 
+### Synchronisation of data
+![alt text](https://github.com/milindchavan12/DomainDriven/blob/master/assets/CQRSTwoDatabase.png)
 ----
 
 ## Streaming Architecure
