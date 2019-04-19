@@ -33,3 +33,9 @@ Event Storming is exploring a business domain starting from observable domain ev
 ## Domain Model Supporting Architecture:
 
 ![alt text](https://github.com/milindchavan12/DomainDriven/blob/master/assets/DomainModelArchitecture.png)
+
+### Domain Services:
+- Implement the Domain logic tha belongs to multiple entities.
+- Coordinate the activity of aggregates and repositories with the purpose of implementing the business action.
+
+Action in **Domain Services** come from *Requirments* and approved by *Domain Experts*.
