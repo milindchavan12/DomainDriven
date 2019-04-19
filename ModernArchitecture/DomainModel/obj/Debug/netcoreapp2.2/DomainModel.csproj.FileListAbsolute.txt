@@ -1,0 +1,8 @@
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel/bin/Debug/netcoreapp2.2/DomainModel.deps.json
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel/bin/Debug/netcoreapp2.2/DomainModel.dll
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel/bin/Debug/netcoreapp2.2/DomainModel.pdb
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel/obj/Debug/netcoreapp2.2/DomainModel.csproj.CoreCompileInputs.cache
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel/obj/Debug/netcoreapp2.2/DomainModel.AssemblyInfoInputs.cache
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel/obj/Debug/netcoreapp2.2/DomainModel.AssemblyInfo.cs
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel/obj/Debug/netcoreapp2.2/DomainModel.dll
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel/obj/Debug/netcoreapp2.2/DomainModel.pdb

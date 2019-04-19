@@ -1,0 +1,17 @@
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel.Tests/bin/Debug/netcoreapp2.2/DomainModel.Tests.deps.json
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel.Tests/bin/Debug/netcoreapp2.2/DomainModel.Tests.runtimeconfig.json
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel.Tests/bin/Debug/netcoreapp2.2/DomainModel.Tests.runtimeconfig.dev.json
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel.Tests/bin/Debug/netcoreapp2.2/DomainModel.Tests.dll
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel.Tests/bin/Debug/netcoreapp2.2/DomainModel.Tests.pdb
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel.Tests/bin/Debug/netcoreapp2.2/DomainModel.dll
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel.Tests/bin/Debug/netcoreapp2.2/DomainModel.pdb
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel.Tests/obj/Debug/netcoreapp2.2/DomainModel.Tests.csprojAssemblyReference.cache
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel.Tests/obj/Debug/netcoreapp2.2/DomainModel.Tests.csproj.CoreCompileInputs.cache
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel.Tests/obj/Debug/netcoreapp2.2/DomainModel.Tests.AssemblyInfoInputs.cache
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel.Tests/obj/Debug/netcoreapp2.2/DomainModel.Tests.AssemblyInfo.cs
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel.Tests/obj/Debug/netcoreapp2.2/DomainModel.Tests.csproj.CopyComplete
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel.Tests/obj/Debug/netcoreapp2.2/DomainModel.Tests.dll
+/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel.Tests/obj/Debug/netcoreapp2.2/DomainModel.Tests.pdb

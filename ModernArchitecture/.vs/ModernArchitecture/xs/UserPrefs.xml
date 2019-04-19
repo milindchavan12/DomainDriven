@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{4BE245C7-2065-4725-97A5-4786CE57CFB2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DomainModel/Aggregates/Party.cs">
+    <Files>
+      <File FileName="DomainModel/Aggregates/IAggregate.cs" Line="6" Column="24" />
+      <File FileName="DomainModel/Aggregates/Aggregate.cs" Line="5" Column="6" />
+      <File FileName="DomainModel/Aggregates/Party.cs" Line="4" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ModernArchitecture" expanded="True">
+            <Node name="DomainModel" expanded="True">
+              <Node name="Aggregates" expanded="True">
+                <Node name="Party.cs" selected="True" />
+              </Node>
+              <Node name="Business" expanded="True" />
+              <Node name="Extensions" expanded="True" />
+            </Node>
+            <Node name="DomainModel.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ModernArchitecture" expanded="True">
+            <Node name="DomainModel.Tests" expanded="True">
+              <Node name="DomainModel" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="MatchUnitTest" expanded="True">
+                    <Node name="Match_Score" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DomainModel.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Milind/Documents/Sources/DomainDriven/ModernArchitecture/DomainModel/Business/Match.cs" relfile="DomainModel/Business/Match.cs" line="44" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
