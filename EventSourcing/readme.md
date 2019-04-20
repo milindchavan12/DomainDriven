@@ -8,3 +8,8 @@ Event Sourcing states that all changes made ot the application state during enti
 - Have a persistent store of events.
 - Append only, no-delete.
 - Replay of event from beginning or known point.
+
+## Event Store : Type of Subscriptions
+- Volatile
+- Catch-Up
+- Persistent
