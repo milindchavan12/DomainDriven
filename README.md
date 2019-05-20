@@ -34,6 +34,13 @@ Event Storming is exploring a business domain starting from observable domain ev
 
 ![alt text](https://github.com/milindchavan12/DomainDriven/blob/master/assets/DomainModelArchitecture.png)
 
+### Value Objects
+The Value Object has very specific characteristics:
+- It is used to Measure, quantifies, or describes a thing in the domain.
+- Identiity is basded on composition of values.
+- Immutable.
+
+
 ### Domain Services:
 - Implement the Domain logic tha belongs to multiple entities.
 - Coordinate the activity of aggregates and repositories with the purpose of implementing the business action.
