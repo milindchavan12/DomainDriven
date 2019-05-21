@@ -46,3 +46,9 @@ The Value Object has very specific characteristics:
 - Coordinate the activity of aggregates and repositories with the purpose of implementing the business action.
 
 Action in **Domain Services** come from *Requirments* and approved by *Domain Experts*.
+
+### Aggregates 
+Aggregate consists of one or more Entities and ValueObjects which change together. Aggregate must have **Aggregate Root**, which is parent object of all members of Aggregate.
+Data changes to Aggregate must follow A.C.I.D rule, which is : Automic, Consistant, Isolated and Durable.
+
+In the Domain Driven Design book Eric Evans states, "An aggregate is a cluster of associated objects that we treat as a unit for the purpose of data changes."
