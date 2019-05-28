@@ -1,7 +1,7 @@
 ﻿using System;
 namespace DomainModel.Aggregates
 {
-    public class Party
+    public class Party : Aggregate
     {
         public Party()
         {

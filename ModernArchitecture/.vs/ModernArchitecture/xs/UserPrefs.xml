@@ -1,8 +1,6 @@
 ﻿<Properties StartupConfiguration="{4BE245C7-2065-4725-97A5-4786CE57CFB2}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="DomainModel/Aggregates/Party.cs">
     <Files>
-      <File FileName="DomainModel/Aggregates/IAggregate.cs" Line="6" Column="24" />
-      <File FileName="DomainModel/Aggregates/Aggregate.cs" Line="5" Column="6" />
       <File FileName="DomainModel/Aggregates/Party.cs" Line="4" Column="35" />
     </Files>
     <Pads>

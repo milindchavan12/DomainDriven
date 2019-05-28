@@ -1,0 +1,12 @@
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/AppointmentScheduling.Core/bin/Debug/AppointmentScheduling.Core.dll
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/AppointmentScheduling.Core/bin/Debug/AppointmentScheduling.Core.pdb
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/AppointmentScheduling.Core/bin/Debug/FrontDesk.SharedKernel.dll
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/AppointmentScheduling.Core/bin/Debug/StructureMap.dll
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/AppointmentScheduling.Core/bin/Debug/FrontDesk.SharedKernel.pdb
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/AppointmentScheduling.Core/bin/Debug/StructureMap.pdb
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/AppointmentScheduling.Core/bin/Debug/StructureMap.xml
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/AppointmentScheduling.Core/obj/Debug/AppointmentScheduling.Core.csprojAssemblyReference.cache
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/AppointmentScheduling.Core/obj/Debug/AppointmentScheduling.Core.csproj.CoreCompileInputs.cache
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/AppointmentScheduling.Core/obj/Debug/AppointmentScheduling.Core.csproj.CopyComplete
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/AppointmentScheduling.Core/obj/Debug/AppointmentScheduling.Core.dll
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/AppointmentScheduling.Core/obj/Debug/AppointmentScheduling.Core.pdb

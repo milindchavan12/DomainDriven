@@ -1,10 +1,16 @@
 ﻿using System;
 namespace DomainModel.Aggregates
 {
-    public class Aggregate
+    public abstract class Aggregate : IAggregate
     {
-        public Aggregate()
+        public Guid Id { get; protected set; }
+
+        Guid IAggregate.Id
         {
+            get
+            {
+                return Id;
+            }
         }
     }
 }

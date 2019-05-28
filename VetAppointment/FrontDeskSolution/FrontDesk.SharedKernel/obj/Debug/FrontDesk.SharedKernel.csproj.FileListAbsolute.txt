@@ -1,0 +1,10 @@
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/FrontDesk.SharedKernel/bin/Debug/FrontDesk.SharedKernel.dll
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/FrontDesk.SharedKernel/bin/Debug/FrontDesk.SharedKernel.pdb
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/FrontDesk.SharedKernel/bin/Debug/StructureMap.dll
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/FrontDesk.SharedKernel/bin/Debug/StructureMap.pdb
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/FrontDesk.SharedKernel/bin/Debug/StructureMap.xml
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/FrontDesk.SharedKernel/obj/Debug/FrontDesk.SharedKernel.csprojAssemblyReference.cache
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/FrontDesk.SharedKernel/obj/Debug/FrontDesk.SharedKernel.csproj.CoreCompileInputs.cache
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/FrontDesk.SharedKernel/obj/Debug/FrontDesk.SharedKernel.csproj.CopyComplete
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/FrontDesk.SharedKernel/obj/Debug/FrontDesk.SharedKernel.dll
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/FrontDesk.SharedKernel/obj/Debug/FrontDesk.SharedKernel.pdb

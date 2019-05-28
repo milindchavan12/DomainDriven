@@ -1,0 +1,14 @@
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/ClientPatientManagement.Core/bin/Debug/ClientPatientManagement.Core.dll
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/ClientPatientManagement.Core/bin/Debug/ClientPatientManagement.Core.pdb
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/ClientPatientManagement.Core/bin/Debug/Common.dll
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/ClientPatientManagement.Core/bin/Debug/FrontDesk.SharedKernel.dll
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/ClientPatientManagement.Core/bin/Debug/StructureMap.dll
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/ClientPatientManagement.Core/bin/Debug/FrontDesk.SharedKernel.pdb
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/ClientPatientManagement.Core/bin/Debug/Common.pdb
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/ClientPatientManagement.Core/bin/Debug/StructureMap.pdb
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/ClientPatientManagement.Core/bin/Debug/StructureMap.xml
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/ClientPatientManagement.Core/obj/Debug/ClientPatientManagement.Core.csprojAssemblyReference.cache
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/ClientPatientManagement.Core/obj/Debug/ClientPatientManagement.Core.csproj.CoreCompileInputs.cache
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/ClientPatientManagement.Core/obj/Debug/ClientPatientManagement.Core.csproj.CopyComplete
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/ClientPatientManagement.Core/obj/Debug/ClientPatientManagement.Core.dll
+/Users/Milind/Documents/Sources/DomainDriven/VetAppointment/FrontDeskSolution/ClientPatientManagement.Core/obj/Debug/ClientPatientManagement.Core.pdb
